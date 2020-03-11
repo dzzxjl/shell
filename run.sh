@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # run.sh
 #解压tar包
 tar -xzvf docker_install.tar.gz
